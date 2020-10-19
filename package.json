@@ -25,6 +25,6 @@
     "dependencies":
     {
         "coffee-script": "~1.7.1",
-        "browserify": "4.2.1"
+        "browserify": "12.0.0"
     }
 }
